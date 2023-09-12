@@ -1,2 +1,2 @@
 # bookbot
-BookBot is a project
+BookBot
